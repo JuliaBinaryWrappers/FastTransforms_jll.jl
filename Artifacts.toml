@@ -1,228 +1,228 @@
 [[FastTransforms]]
-arch = "i686"
-git-tree-sha1 = "93d1dc217ebb8df5b7e4ae4d4ffc45a78e2c0dcb"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "ccbf89f03fbf18a608522e463fdfd2688cc3c80de67479acb7349a421e90e88c"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-linux-gnu-libgfortran3.tar.gz"
-[[FastTransforms]]
-arch = "i686"
-git-tree-sha1 = "5411a5697c549ba5a261f0cd823fa0c8cc2cac90"
+arch = "x86_64"
+git-tree-sha1 = "0998437e19f28d05ce3b3aa06ea22e3b21c4808e"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[FastTransforms.download]]
-    sha256 = "d5f4acd6cce5d987c84ff96271bbc567a2bb265ab71cc230d9e738e80c45aca1"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "8c12e573865329a3effd34a1b76f7cef9e50440abba06122bb1511afccf83330"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-w64-mingw32-libgfortran5.tar.gz"
 [[FastTransforms]]
 arch = "x86_64"
-git-tree-sha1 = "14f1ec574da43f60fb115349c6b4bcfea2fb5643"
-libgfortran_version = "5.0.0"
-os = "windows"
-
-    [[FastTransforms.download]]
-    sha256 = "2b74cb3f51938e10b7405defd1c0828ea5c73f58342f7da485273c29460f2e9b"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-w64-mingw32-libgfortran5.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "0d78672961fc2ad6ca987a47b0f96eea33fef031"
-libc = "glibc"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "23783a97e84965c0fb8c11683b3526bed23b4e43815c890bb1d1638356b77b5d"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-linux-gnu-libgfortran3.tar.gz"
-[[FastTransforms]]
-arch = "i686"
-git-tree-sha1 = "192e7c50d59ddf4e0ec26fc65d1b416539923b7a"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[FastTransforms.download]]
-    sha256 = "ab3cc4eb7fc35131a8595fae360ea27938a411539a4617864e19152b322909d0"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-w64-mingw32-libgfortran3.tar.gz"
-[[FastTransforms]]
-arch = "i686"
-git-tree-sha1 = "933d09cf76c6bfb9b6da6d6db2e32a066c1ab339"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[FastTransforms.download]]
-    sha256 = "ef5c641c2d34d293a574c738258a2f652174dd01a9da4e489e597cd4b3b516a8"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-w64-mingw32-libgfortran4.tar.gz"
-[[FastTransforms]]
-arch = "i686"
-git-tree-sha1 = "3c7cb57f5af6b23f9fa0af773b5da5a571027c5e"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "f657c8f8bab39e1ad010ce340a7af669bcbc9e66da8e28574e2a4a3963269302"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-linux-musl-libgfortran5.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "adc6bd73d7d57fdf5fa8d8e4e88f25dc6ce2c76c"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "4b7aaf8a7f9667bb76b1b7c40701a21be7e05acb71581db0fc6a15dd8fb24980"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-linux-gnu-libgfortran4.tar.gz"
-[[FastTransforms]]
-arch = "i686"
-git-tree-sha1 = "234d549ce185cc8abe4f3c3cedb04c2560dc0e96"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "4b4f778a1d97d54401812275708fa134b5bc72508c15b69097adb6181cf9e949"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-linux-musl-libgfortran3.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "1f23de9b3abeee000bb9313c56c52f431cd8e9c5"
-libgfortran_version = "5.0.0"
-os = "freebsd"
-
-    [[FastTransforms.download]]
-    sha256 = "09387e5c0075942483bbaade9c23f51cce8125212071292c12f3dc935eb3aea0"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "20a6009086018b62cadee1f6d03dea6ad5f42b02"
-libgfortran_version = "4.0.0"
-os = "windows"
-
-    [[FastTransforms.download]]
-    sha256 = "b67add5259b88e1c35e7953cefbb7db88727da1ef54473530bd8c44871705bd4"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-w64-mingw32-libgfortran4.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "fd008bffc6a5c74966e89652558505193d238168"
-libgfortran_version = "4.0.0"
-os = "macos"
-
-    [[FastTransforms.download]]
-    sha256 = "1d6839b6473f29a792725dd6a6f743e2383b143e488a89a42455527055c8019e"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-apple-darwin14-libgfortran4.tar.gz"
-[[FastTransforms]]
-arch = "i686"
-git-tree-sha1 = "a927fa5b5bc237c078c11f33b374fa05a6775de0"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "802674e492dc13c42446fbf8cc41cd801ffb08dad8b6cfeacdd76032ac683ebe"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-linux-musl-libgfortran4.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "223356bdd148c943de32970c0713be4ad9c0df8a"
-libgfortran_version = "5.0.0"
-os = "macos"
-
-    [[FastTransforms.download]]
-    sha256 = "f5e0b27c6a133862b9c7488d4b0a6153ee3b524aafad76c34d907c11551212b0"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-apple-darwin14-libgfortran5.tar.gz"
-[[FastTransforms]]
-arch = "i686"
-git-tree-sha1 = "5396f78d386faced97e343a4a8f70b9305aafc06"
-libc = "glibc"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "7a24d75791fb60cb0179e9a8ffba651c366b1a5940383606e64818c9da42e411"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-linux-gnu-libgfortran4.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "385bf5c159195ea226ad741f013b5b6cce2bdb19"
-libc = "musl"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "ca62bb8b5d155a0188d4879f23edc184e40366b120970786f84c02e43c899a12"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-linux-musl-libgfortran5.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "9c241688341c14f5a5f70693a45de1233fab6c81"
-libgfortran_version = "3.0.0"
-os = "windows"
-
-    [[FastTransforms.download]]
-    sha256 = "7321917a4832f0f17fca7e6fa188d5b1650d0f0b3c6bd75c211f1ee24062dff4"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-w64-mingw32-libgfortran3.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "aff7c68705f7ae30a1497fd7876f7cec3b6676ea"
-libc = "musl"
-libgfortran_version = "4.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "fa07c26bfed069b70e15e4b10188c4146a34f6f412f030554cf369d547e746dd"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-linux-musl-libgfortran4.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "da4773f5a980b1022df3371a226aa6663d16c8a0"
-libgfortran_version = "3.0.0"
-os = "freebsd"
-
-    [[FastTransforms.download]]
-    sha256 = "494cf42fa7a50c5cd828187c619271bc325ef71b9bb4c93c1335fc5af28d4e56"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "ae0762d3382f33891eb8d9e12f01a9d8fe7a7d34"
-libc = "musl"
-libgfortran_version = "3.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "a4960bd3c0d846db5daef1e5005aa2386446662734b003a785b0f010bdba7b94"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-linux-musl-libgfortran3.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "b887e776eea9ab206a511432af908f8d596efec5"
-libgfortran_version = "3.0.0"
-os = "macos"
-
-    [[FastTransforms.download]]
-    sha256 = "fe9f4a7c578e0a5e2169c0164d370b3cf97bb959142c4ecf579e1bb99155ac03"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-apple-darwin14-libgfortran3.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "d6fcdda6c651232158321f421c5326db90a81d26"
-libc = "glibc"
-libgfortran_version = "5.0.0"
-os = "linux"
-
-    [[FastTransforms.download]]
-    sha256 = "8da87edec1b8072a83474914974fa3fe417fffbf32bdf7a322d3d574d113b201"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-linux-gnu-libgfortran5.tar.gz"
-[[FastTransforms]]
-arch = "x86_64"
-git-tree-sha1 = "7750907654e587d60ba90b4e331ad4d99218eb25"
+git-tree-sha1 = "574cbacff3f46af036690bf569ce57672c5d8354"
 libgfortran_version = "4.0.0"
 os = "freebsd"
 
     [[FastTransforms.download]]
-    sha256 = "71656c85b0cc7b00d4518157064fd6d521993604b329672361680d3827d7f719"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+    sha256 = "21e55910f0846000e0485eaa45f0c349a238f8ec38bef746f16320e6bfbc1d54"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "bce480c0d61784f87584b5e7468960174a32e87a"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[FastTransforms.download]]
+    sha256 = "45db665ab58d3f9d674b920d098ca979c1d95b68c3a726bfdfab23bbe3ab3f0b"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "ae574c9683e5c844494adb70ea18ffc81a8a50f4"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[FastTransforms.download]]
+    sha256 = "b1dbe1112dcf18c3746082015154cc58428616957fc16829e4a86deda84ece40"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "e1a6a31aef9bba0aff699f2a1cae9079eb10bed6"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[FastTransforms.download]]
+    sha256 = "e82aa5df66b5c533e512d2cadf1d1b9d0e60709f2df30018f4747f01f6f2a8c1"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "5d86f3e0ca584fe07713f58387de888c5a1254d0"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "daa362824b952c881f2429ad8370c6101331bf8603b9acad771d61a87d31d622"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-linux-gnu-libgfortran3.tar.gz"
 [[FastTransforms]]
 arch = "i686"
-git-tree-sha1 = "018faafc7965e06e7780998a5965ef73fe56305a"
+git-tree-sha1 = "0427453fcfbb726bdeb9c3fd9b4e3fcd87c60a12"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "cd2d297860b0378473be3d1cb11e958c8416d4e7a918774cdbde0660f602570c"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-linux-musl-libgfortran5.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "32c286c1d9a333f56d04c7003f7a675a41255bee"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[FastTransforms.download]]
+    sha256 = "45e1e6ac8fcf3003c4aedd55e2725217f4159a51a0eb03dea71a72d8e51b210b"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-w64-mingw32-libgfortran4.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "d90284b3a95054c3e3b7931c8a55165eb4fe3ac4"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "132ffc2ebf2afd4dd4e056d66632ff2150f05e66b1adfa0031eff4fb81053419"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+0/FastTransforms.v0.2.13.i686-linux-gnu-libgfortran5.tar.gz"
+    sha256 = "bb98f1f650f8f0a9fbec4d8926e74879a4ab8275c9b252e3ed64d7d140e31178"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "d9740af8b5cfb3bddd33d9ec6a5f5c71a9869d4e"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[FastTransforms.download]]
+    sha256 = "08cc860b2756df4eb90de822578e44b0d18835b434dd281416a87c53cf667930"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-w64-mingw32-libgfortran5.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "14f5cbfd2d715e091b4a84cb648ddb35afcbf3ae"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "5791aa3cd5a23cd11c0b52521175613836af29981ea46d994c8772363a7da789"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-linux-gnu-libgfortran4.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "57afb7eebded75ab8268f170d5369a28abd9b798"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[FastTransforms.download]]
+    sha256 = "d6253b04cce81a29db5f7eb6220819504d8cbc283d9ecbc071810886d8046b80"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-w64-mingw32-libgfortran3.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "7d658c8ed846b61b2c194c5a2e25e486dd0faa77"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[FastTransforms.download]]
+    sha256 = "ec2009af42bfbad4fa753061ca088eb3afc21582e879688cac065174485c876b"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "acd00facddbfd92a13dec980fcb894fa6322a882"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[FastTransforms.download]]
+    sha256 = "0cf249ea6fee9752250888b745b6a0404dfc27925161d4b74c023c0bee9483bd"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "2412024ff6786ece8c2252a25d1c1af80eb64d5e"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "d670b91d42d7325c1d202b2b70402db9c802e8e092a64fb04a0e26e54fcff461"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-linux-musl-libgfortran5.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "afc3fd9584be02b823718f877a9349c1b3f6cca8"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "ecaffe58e5aefc1b43a2da0e2b044bf34f7ed035df1e815021f7b1b7c49d4b94"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-linux-musl-libgfortran4.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "c335ba26e56c7fd5389afbff0fe0721867eb5f2f"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[FastTransforms.download]]
+    sha256 = "01f51f244be0f40fc58aa77639f594a95b9de3c7dfc44b51d666977edf5a69b2"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "570ae154cc1f532db019a33aa365d5445fc63f07"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "3fe1e2397205e96f27900ceef4bce4ed88c980816b84dcd31cf3199337805506"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "8e342f51d10a45d2b17c160dbafdde445d8c6250"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "fb3a7b253aee0957eb5b2a6fc39c6c60589215a7d4abf7450d0529f193090dca"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-linux-musl-libgfortran3.tar.gz"
+[[FastTransforms]]
+arch = "x86_64"
+git-tree-sha1 = "7fa03af90e811ff85c4a63ac3488067b9b082b42"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[FastTransforms.download]]
+    sha256 = "a271bfedffcd1541f4448c690e402cfd4b9ff34fa8d132e4c98631070cfa073c"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "166a6563fa1391a603411b78e9d5947a33770047"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "7f5b7ca55c854827e43a30b4713c1aa25797e7daeb9e8f0d64a761c40e7f7308"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-linux-gnu-libgfortran5.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "21e04caccc5ce84a6a0bb9813fc9593df270040a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "540f14cb5e6610ba13668025296448446ca564b35221e99098259372aa0c1de9"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-linux-gnu-libgfortran3.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "13e89ec98327f00499838dcb999552db93fbc3b0"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "41f80a1036fa151aecf5f6fb496d55834e0ee4bda6a572ac146e6e36da5e4e59"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-linux-musl-libgfortran3.tar.gz"
+[[FastTransforms]]
+arch = "i686"
+git-tree-sha1 = "94824be6227e26f7aecf4819d32620ba5397d20f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[FastTransforms.download]]
+    sha256 = "6dcb5db65ed48ff8a45d01e8eff7594b1882ac792a46f9d61600217626c68dcb"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.2.13+1/FastTransforms.v0.2.13.i686-linux-musl-libgfortran4.tar.gz"
