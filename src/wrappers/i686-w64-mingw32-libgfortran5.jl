@@ -9,6 +9,7 @@ using OpenBLAS_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "PATH"
+LIBPATH_default = ""
 
 # Relative path to `libfasttransforms`
 const libfasttransforms_splitpath = ["bin", "libfasttransforms.dll"]
