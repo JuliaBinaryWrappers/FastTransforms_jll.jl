@@ -1,115 +1,115 @@
 [[FastTransforms]]
 arch = "aarch64"
-git-tree-sha1 = "4525fe895b4a01995c9597a82245085d83a50eb9"
+git-tree-sha1 = "6a434cd0af47e56858cc1d73c596c56de8fabe86"
 libc = "glibc"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "57e069a0bc38311d72be9e24f750bfa86f7b30b5d58bae265fd393459440c587"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "625424ed21fe03eccb5a5ea2fc04dad542180fe083db81c2eaec5754c56ccf8a"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.aarch64-linux-gnu.tar.gz"
 [[FastTransforms]]
 arch = "aarch64"
-git-tree-sha1 = "bb2c43a42e515e0942409013857cb2a63477675e"
+git-tree-sha1 = "aed5558736a5c46f355700bd4d667a681f467fa4"
 libc = "musl"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "eb31125fa4e5fc53255c5502b469509cd39a13b330b93e5a774d692b0de7ad21"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.aarch64-linux-musl.tar.gz"
+    sha256 = "85f09b2e0da46eb7dc7d7b1337b8b2297977d6fc15e91578a84014bcbd30cfd4"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.aarch64-linux-musl.tar.gz"
 [[FastTransforms]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "eeb243fbf4a2ace411636d82b91d9a9a683a8f8f"
+git-tree-sha1 = "1459056d5bcb301e17272daaa070299f0b833dfa"
 libc = "glibc"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "54f934d97f2a8e85f95ed093196f787e78582f72a0f64cd05fbd69b0d9da7b99"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "0261f8495401dc26512e31ced5b7eadf9d24795d26fbebb1a6c0e69c3095d45a"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.armv7l-linux-gnueabihf.tar.gz"
 [[FastTransforms]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "04584fb9736cd226708e3b2e74e844a7ec9c98ce"
+git-tree-sha1 = "a38b8b66213b4cbcdf94f70fc710c93b2770ebc3"
 libc = "musl"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "5d412fae194c4d4628a10c66bdfa1dfe20eaf6b3e49c34f972f6fbe26a2879f7"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c5d53d2a479ed0a0b39605b831ed7abe17deb3df9becd1f56061a71a3e2085ab"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.armv7l-linux-musleabihf.tar.gz"
 [[FastTransforms]]
 arch = "i686"
-git-tree-sha1 = "0f2a3b8d4cf1f0776de6cfa727854a0c7effca39"
+git-tree-sha1 = "58fcd7f307918ad234f7e72894bed352e5272595"
 libc = "glibc"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "e2359ffa106d4a692b189c6991b4b1613fad6e0f855c9fa786b4dc12cc970c3e"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.i686-linux-gnu.tar.gz"
+    sha256 = "6149771cd26ed82d57d35bc588eac9feeb26c088ef84aa0f74e08716b12c7f9e"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.i686-linux-gnu.tar.gz"
 [[FastTransforms]]
 arch = "i686"
-git-tree-sha1 = "8da16a13b6cd36ad2473dfb2837baf513246739c"
+git-tree-sha1 = "aaa569bb51357b5eb126fc546f20602e7b798630"
 libc = "musl"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "e0aea2c25bdeb9786460ca7a1c98a4858868eb72e9e867b1e42e877d7479bd8c"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.i686-linux-musl.tar.gz"
+    sha256 = "84d753d66017323caa93cbd9b0f57d49673c174bd3c45a6d042ea22976b1b27e"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.i686-linux-musl.tar.gz"
 [[FastTransforms]]
 arch = "i686"
-git-tree-sha1 = "49c6da78567a1d96d6ea19aeb70212dfac5ff59f"
+git-tree-sha1 = "42ba55a514f374aee88ffa6183988fdd2c2d7fd9"
 os = "windows"
 
     [[FastTransforms.download]]
-    sha256 = "0958da42bcb9e0b71bc9f99b793bcadddebc421f53fd9e5193507ad2b60fca3c"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.i686-w64-mingw32.tar.gz"
+    sha256 = "e6f09ed4ad5a37600bb1379363e73f6365896dd49f3de61fb916e0a0863d47d8"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.i686-w64-mingw32.tar.gz"
 [[FastTransforms]]
 arch = "powerpc64le"
-git-tree-sha1 = "193efacb11a712d06b77d51a586d6976edb17203"
+git-tree-sha1 = "d5ef110949521ac9328826e991e1c45db33fd577"
 libc = "glibc"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "fcc9a276b7ad24ae40e8870d61b9bfb7dbc02d224e8d48ba056b41948ed23ba3"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ce4a06bbf59a23bbdd973e2cd6c60f9de49980355ae3450d55a94e4631ee6330"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.powerpc64le-linux-gnu.tar.gz"
 [[FastTransforms]]
 arch = "x86_64"
-git-tree-sha1 = "df2e8174e6accfb338b68ef8c06aabf6f2a35a36"
+git-tree-sha1 = "8047bf4705a460e8fd2bcc0959fb3514e7ee5388"
 os = "macos"
 
     [[FastTransforms.download]]
-    sha256 = "dcc3e2ae48e45ae37b82ab6da27b352e3ee77910eac788196dc7c45acd73645d"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "2446cb06d92a047a6a56bc1af82d2c970d6952ee752573e281933f05175768c4"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.x86_64-apple-darwin.tar.gz"
 [[FastTransforms]]
 arch = "x86_64"
-git-tree-sha1 = "4e827e656d0f870b11b0d6def5d68b97589a3b60"
+git-tree-sha1 = "603bf763f4eb68f8445d34a461cea3c8156cae18"
 libc = "glibc"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "8d7bfd85852afb9b5b9eb9375850b188a65a4235256908d6a5fe5b50a39163e7"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "6f0f44f5a46d6ec96600f42a0cc68383f0f223ce6b20cd1cf5df9fe82a8a78ba"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.x86_64-linux-gnu.tar.gz"
 [[FastTransforms]]
 arch = "x86_64"
-git-tree-sha1 = "f69859d02e90398a124e484b1f5676a3f32788dd"
+git-tree-sha1 = "cb2cfe15ce164f1624794f61d4b14790f0c4b9a1"
 libc = "musl"
 os = "linux"
 
     [[FastTransforms.download]]
-    sha256 = "6246eb252f91ab65ce207dd9a3f30c969ec4fedce753d872ad0a78fd4fc03223"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.x86_64-linux-musl.tar.gz"
+    sha256 = "1895c0cb6b2d6f12522ac6211a64dd4122f4860a3e075d10bed54a97e7c3b994"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.x86_64-linux-musl.tar.gz"
 [[FastTransforms]]
 arch = "x86_64"
-git-tree-sha1 = "a5efdeebc7db9beaf7de3accc1d1f402d2ea152b"
+git-tree-sha1 = "7acbe70dfe9e0f4e970def9b7ce397d403c7b5ba"
 os = "freebsd"
 
     [[FastTransforms.download]]
-    sha256 = "98ab870556824e4365761af4a3537797b1da94608e2af3e78a51e5d3a8f97834"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6d791db24144c6a2a3fbd4935179ae7b4af7d8d9c308569e1c8c13a72f314783"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.x86_64-unknown-freebsd.tar.gz"
 [[FastTransforms]]
 arch = "x86_64"
-git-tree-sha1 = "19413b1bddb57428b745aa8ecb13bbb52801b582"
+git-tree-sha1 = "ac5ef189d38bf14ecfd115e9e4e9a52bd486a54d"
 os = "windows"
 
     [[FastTransforms.download]]
-    sha256 = "5ce37c70c2f5db0f46f2120c5c2270e54bcfc74a82d1089f46d9de5082e626db"
-    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.0+0/FastTransforms.v0.5.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "49ed52a979f33dbb3e7a93141dcddb4afbea8a3ecebc9000726d5ac53a7582d8"
+    url = "https://github.com/JuliaBinaryWrappers/FastTransforms_jll.jl/releases/download/FastTransforms-v0.5.1+0/FastTransforms.v0.5.1.x86_64-w64-mingw32.tar.gz"
