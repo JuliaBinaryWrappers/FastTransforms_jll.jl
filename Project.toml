@@ -1,6 +1,6 @@
 name = "FastTransforms_jll"
 uuid = "34b6f7d7-08f9-5794-9e10-3819e4c7e49a"
-version = "0.5.3+0"
+version = "0.5.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
