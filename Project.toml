@@ -1,10 +1,9 @@
 name = "FastTransforms_jll"
 uuid = "34b6f7d7-08f9-5794-9e10-3819e4c7e49a"
-version = "0.6.2+0"
+version = "0.6.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 MPFR_jll = "3a97d323-0669-5f0c-9066-3539efd106a3"
 CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 OpenBLAS_jll = "4536629a-c528-5b80-bd46-f80d51c5b363"
@@ -16,3 +15,5 @@ LLVMOpenMP_jll = "1d63c593-3942-5779-bab2-d838dc0a180e"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.7"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"
